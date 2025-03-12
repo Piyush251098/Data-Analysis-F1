@@ -59,7 +59,7 @@ Explore the dashboard here:
 
 ## 🙌 **Acknowledgments**
 - Dataset: [Deep Shah (Kaggle)](https://www.kaggle.com/deepshah16)
-- Inspiration: Formula 1 official statistics and historical race data.
+- Inspiration: Formula 1 official statistics and historical race data. [Formula 1 Official Website](https://www.formula1.com/)
 
 ---
 
