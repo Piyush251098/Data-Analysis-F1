@@ -1,7 +1,5 @@
 # F1 Race Analytics Dashboard
 
-![Dashboard Preview](https://public.tableau.com/app/profile/piyush.patil4029/viz/Book1_17414700800120/Dashboard1/publish_image)
-
 An interactive Formula 1 (F1) racing analytics dashboard built using Tableau to visualize historical race data, team performance, driver statistics, and race outcomes. This project is designed to help F1 enthusiasts and analysts explore trends, compare teams/drivers, and understand key metrics in Formula 1 racing.
 
 ---
@@ -69,6 +67,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ---
 
 ## 📧 **Contact**
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **Portfolio**: [Your Portfolio Link](https://yourportfolio.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **GitHub**: [Your GitHub Profile]([https://github.com/yourusername](https://github.com/Piyush251098))
+- **Portfolio**: [Your Portfolio Link](https://piyush251098.github.io/Piyush-portfolio.github.io/index.html)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/piyush-patil-4652a81a2/)
