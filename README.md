@@ -2,7 +2,7 @@
 
 An interactive Formula 1 (F1) racing analytics dashboard built using Tableau to visualize historical race data, team performance, driver statistics, and race outcomes. This project is designed to help F1 enthusiasts and analysts explore trends, compare teams/drivers, and understand key metrics in Formula 1 racing.
 
-![Dashboard Preview](https://github.com/Piyush251098/Data-Analysis-F1/dashboard_preview.png?raw=true)
+![Dashboard Preview](https://github.com/Piyush251098/Data-Analysis-F1/Dashboard1.png?raw=true)
 
 ---
 
