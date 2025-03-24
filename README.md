@@ -69,6 +69,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ---
 
 ## 📧 **Contact**
-- **GitHub**: [Your GitHub Profile](https://github.com/Piyush251098)
-- **Portfolio**: [Your Portfolio Link](https://piyush251098.github.io/Piyush-portfolio.github.io/index.html)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/piyush-patil-4652a81a2/)
+- **GitHub**: [My GitHub](https://github.com/Piyush251098)
+- **Portfolio**: [My Portfolio](https://piyush251098.github.io/Piyush-portfolio.github.io/index.html)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/piyush-patil-4652a81a2/)
